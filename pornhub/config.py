@@ -2,7 +2,7 @@ from typing import List
 
 API_ID: int = 23995611
 API_HASH: str = "a1b94f10b912c9d732c320f9c73d73dc"
-TOKEN: str = "5851631280:AAE3xuRJCFLYPsLCvYYEkzUm41aqOv3XQ5k"
+TOKEN: str = "6252848532:AAFMe-qvKYgAjYK7Iqndvv9K8Hr4-CajbWQ"
 
 log_chat: int = -1001517121826
 sub_chat: str = "testbott1111"
