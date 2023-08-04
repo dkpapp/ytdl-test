@@ -73,7 +73,7 @@ async def subscribe_channel(c: Client, u: Message):
             except ChatWriteForbidden:
                 pass
     except ChatAdminRequired:
-        c.send_message(log_chat, "Can't manage the provided channel, make sure I'm the admin on the channel!")
+        await c.send_message(log_chat, "Can't manage the provided channel, make sure I'm the admin on the channel!")
 
 
 @Client.on_inline_query()
