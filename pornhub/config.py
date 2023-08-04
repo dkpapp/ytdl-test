@@ -2,11 +2,11 @@ from typing import List
 
 API_ID: int = 23995611
 API_HASH: str = "a1b94f10b912c9d732c320f9c73d73dc"
-TOKEN: str = "6252848532:AAFMe-qvKYgAjYK7Iqndvv9K8Hr4-CajbWQ"
+TOKEN: str = "6291981656:AAF86nMi_WL9uWrAqgGGW9rlxLgy2BMnlRY"
 
-log_chat: int = -1001517121826
-sub_chat: str = "testbott1111"
-sudoers: List[int] = [5631774748,]
+log_chat: int = -1001957441632
+sub_chat: str = "HKBOTZ"
+sudoers: List[int] = [2067727305]
 prefixs: List[str] = ["/", "!", ".", "$", "-"]
 
 # notes
